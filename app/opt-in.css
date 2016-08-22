@@ -1,0 +1,32 @@
+section {
+    max-width: 766px;
+    width: 766px;
+    border: 1px solid black;
+    box-shadow: 3px 3px 3px black;
+    height: 370px;
+    max-height:370px;
+    margin: 0 auto;
+}
+
+.opt-in-directive .image-wrapper {
+    float: left;
+    width: 254px;
+    max-width: 254px;
+    border: 1px solid black;
+    height: 254px;
+    max-height: 254px;
+    text-align: center;
+    margin: 50px;
+}
+
+.opt-in-directive input {
+    display: block;
+    clear: right;
+    margin: 50px auto;
+}
+
+.opt-in-directive button {
+    display: block;
+    clear: right;
+    margin: 50px auto;
+}
