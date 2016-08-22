@@ -1,5 +1,5 @@
 /*global angular */
-angular.module('optApp', ['ngAnimate'])
+angular.module('optApp', [])
   .directive('optIn', () => {
     return {
       restrict: 'E',
